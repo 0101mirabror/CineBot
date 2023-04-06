@@ -1,4 +1,10 @@
 # uzmovibot
+
+Botdan ishlashi: Uzmovi.uz kinoportali uchun ishlab chiqilgan bot nusxasi. Bot web scrapping orqali saytdan ma'lumotlarni oladi va botga uzatadi.
+A copy of the bot developed for the Uzmovi.uz movie portal. The bot takes data from the site through web scraping and passes it to the bot.
+
+
+
 ![Screenshot_1](https://user-images.githubusercontent.com/99737165/230449653-d7aaa3a1-a268-43ad-80ec-2603c20adce1.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/99737165/230449707-de666441-ac8c-4322-96d6-410f705df055.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/99737165/230449728-60561f57-d563-450f-b6f5-c00240a8e7b4.png)

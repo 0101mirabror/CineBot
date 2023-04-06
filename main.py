@@ -19,13 +19,13 @@ import sqlite3
 logging.basicConfig(level=logging.DEBUG)
  
 # moviebot
-updater = Updater(token="5166424476:AAEw0P90VO6BmVBhybktPQUVQjNZ_cT2P1c")
+updater = Updater(token="YOUR_TELEGRAM_BOT_API")
 
 
 # config = {
     
 #     'user': 'mirabror',
-#     'password': "devmir1998@@",
+#     'password': "password",
 #     'host':"127.0.0.1",
 #     'database': "uzmoviebotdb",
 #     'raise_on_warnings':True

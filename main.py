@@ -511,7 +511,7 @@ updater.idle()
 # # 
 # logging.basicConfig(level=logging.DEBUG)
 
-# updater = Updater(token="5234535719:AAHgiZ-tHWbTE0ixZEZ6NWcRqJd7TyIiYrg")
+# updater = Updater(token="YOUR_TOKEN")
 # dispatcher = updater.dispatcher
 
 
@@ -556,9 +556,7 @@ updater.idle()
 #     update.message.reply_text("🌐 Bizning veb sayt: WWW.UZMOVI.COM (http://uzmovi.com/)"
 #                               "👥 Telegram guruhimiz: https://t.me/+Y7UTPUhzpbkzN2Ji"
 #                               "------------------------"
-#                               "👨‍⚖️ Administrator: Po'latov Shohabbos (http://t.me/uzmovicom)"
-#                               "🧑‍💻 Dasturchi: Manuchehr Usmonov"
-#                             )
+#                               )
 
 
 # def trailers_handler(update: Update, context):

@@ -1,9 +1,10 @@
 # moviebot
 <img src="https://user-images.githubusercontent.com/99737165/230449653-d7aaa3a1-a268-43ad-80ec-2603c20adce1.png" height=300px width=450px>
-![Screenshot_1](https://user-images.githubusercontent.com/99737165/230449653-d7aaa3a1-a268-43ad-80ec-2603c20adce1.png)
+<img src="https://user-images.githubusercontent.com/99737165/230449707-de666441-ac8c-4322-96d6-410f705df055.png" height=300px width=450px>
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/99737165/230449707-de666441-ac8c-4322-96d6-410f705df055.png)
+
+![Screenshot_2]()
 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/99737165/230449728-60561f57-d563-450f-b6f5-c00240a8e7b4.png)

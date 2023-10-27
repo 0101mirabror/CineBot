@@ -1,5 +1,5 @@
-# uzmovibot
-
+# moviebot
+<img src="https://user-images.githubusercontent.com/99737165/230449653-d7aaa3a1-a268-43ad-80ec-2603c20adce1.png" height=100px width=250px>
 ![Screenshot_1](https://user-images.githubusercontent.com/99737165/230449653-d7aaa3a1-a268-43ad-80ec-2603c20adce1.png)
 
 

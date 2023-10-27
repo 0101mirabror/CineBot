@@ -1,8 +1,8 @@
 # moviebot
-<img src="https://user-images.githubusercontent.com/99737165/230449653-d7aaa3a1-a268-43ad-80ec-2603c20adce1.png" height=300px width=450px>
-<img src="https://user-images.githubusercontent.com/99737165/230449707-de666441-ac8c-4322-96d6-410f705df055.png" height=300px width=450px>
-
-
+<div style="display:flex">
+    <img src="https://user-images.githubusercontent.com/99737165/230449653-d7aaa3a1-a268-43ad-80ec-2603c20adce1.png" height=300px width=450px>
+    <img src="https://user-images.githubusercontent.com/99737165/230449707-de666441-ac8c-4322-96d6-410f705df055.png" height=300px width=450px>
+</div>
 
 ![Screenshot_2]()
 

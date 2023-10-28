@@ -12,7 +12,7 @@ con = sqlite3.connect('uzmoviebotdb.db')
 cur = con.cursor()
 # config = {
 #     'user':'mirabror',
-#     'password':'devmir1998@@',
+#     'password':'********',
 #     'host':'127.0.0.1',
 #     'database':"uzmoviebotdb",
 #     "raise_on_warnings":True
